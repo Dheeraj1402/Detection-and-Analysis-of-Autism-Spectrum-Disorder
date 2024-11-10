@@ -48,19 +48,19 @@ ASD_traits: Label indicating if the individual shows traits associated with ASD 
 
 # Files in the Repository
 
-Code Files
+## Code Files
 
 ASD.ipynb: Jupyter notebook for Exploratory Data Analysis (EDA), containing data preprocessing,visualizations,data preprocessing,model training and evaluation.
 
-Dataset
+## Dataset
 
 ToddlerAutism.csv: The dataset file used for training and testing the model, containing features related to demographic, behavioral, and diagnostic information for ASD detection.
 
-Research Paper
+## Research Paper
 
 GMRIT_IEEE.docx: IEEE research paper titled "Analysis and Detection of Autism Spectrum Disorder (ASD) using Machine Learning," presented at AI-PTIS-2024.
 
-Certificate
+## Certificate
 
 AI-PTIS-2024_0891.pdf: Conference certificate issued by GMR Institute of Technology, Andhra Pradesh, certifying the presentation of the ASD detection paper.
 
